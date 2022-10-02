@@ -48,7 +48,9 @@ input{
   /* border:  solid blue; */
   padding: 10px;
   height: 700px;
-  background-color: blueviolet;
+  font-style: bold;
+  font-size: 30px;
+  background-image: url(https://wallpaperaccess.com/full/5651981.jpg);
 }
 
 .profil {
